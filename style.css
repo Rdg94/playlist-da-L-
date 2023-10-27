@@ -1,14 +1,13 @@
 body {
     background-image: linear-gradient(
     rgb(251, 5, 165),
-    rgb(1, 1, 1)
-    );
-height:100vh;
-color: white;
-font-family: sans-serif;
-display:flex;
-flex-direction:column;
-align-items:center;
+    rgb(1, 1, 1));
+    height:100vh;
+    color: white;
+    font-family: sans-serif;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
 }
 
 button{
